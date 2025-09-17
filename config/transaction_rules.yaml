@@ -1,0 +1,139 @@
+transaction_types:
+  Salary:
+    - dsd kanrat inc
+    - diviyalakshmi
+    - santhosh
+    - santo
+    - tcs ca payroll
+    - payroll
+  Mortgage Payment:
+    - mortgage
+  Loan Payment:
+    - loan
+    - cibc loans
+    - bmw us capital
+    - bmwgroup
+    - acura financial
+    - auto finance
+    - flexiti
+  Insurance Payment:
+    - insurance
+    - unica
+    - ind all life
+  Credit Card Payment:
+    - scotiabank credit card
+    - credit card
+  Tax:
+    - tax
+    - hst
+    - gst
+    - town of ajax
+  Fee:
+    - fee
+    - service charge
+    - overdraft
+  Deposit:
+    - deposit
+    - credit memo
+  Withdrawal:
+    - withdrawal
+    - atm withdrawal
+  E-Transfer:
+    - e-transfer
+  Bill Payment:
+    - payment
+    - bill pay
+  Purchase:
+    - purchase
+    - retail purchase
+  Investment:
+    - investment
+    - investments
+    - wealthsimple
+    - cibc securities
+  Utility Payment:
+    - enbridge
+    - reliance
+    - elexicon
+    - the regional municipality
+  Grocery:
+    - metro
+    - sobeys
+    - food basics
+    - freshco
+    - longos
+    - walmart
+    - no frills
+    - loblaws
+    - whole foods
+    - costco
+    - superstore
+    - ajax iqbal food
+    - bulk barn
+    - metro
+    - panchvati
+    - spiceland
+  Dining:
+    - mcdonalds
+    - starbucks
+    - tim hortons
+    - subway
+    - pizza pizza
+    - kfc
+    - burger king
+    - chipotle
+    - restaurant
+    - cafe
+    - dine
+    - chaiiwala
+    - second cup
+    - domino's
+    - pizza hut
+    - swiss chalet
+    - amiirtham
+    - saravanaa
+    - truly bangalore
+    - tiffin
+  Health:
+    - goodlife fitness
+    - pharmacy
+    - shoppers drug
+    - wellness bliss
+    - great clips
+    - salon
+    - dance
+    - greatclips
+    - training
+  Essentials:
+    - amazon
+    - ebay
+    - aliexpress
+    - wish
+    - best buy
+    - staples
+    - home depot
+    - canadian tire
+    - lowes
+    - dollarama
+    - dollar tree
+    - dollar general
+    - ikea
+    - wayfair
+    - bed bath and beyond
+    - sears
+    - staples
+    - shell
+    - esso
+    - petro canada
+    - chevron
+    - mobil
+    - gulf
+    - costco gas
+    - ultramar
+    - circle k
+    - 7 eleven
+    - marshalls
+    - home sense
+    - winners
+
+
